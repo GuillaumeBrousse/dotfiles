@@ -9,8 +9,8 @@ mas_install() {
   mas list | grep $1 || mas install $1
 }
 
-# Tweetbot
-mas_install 557168941
+# Whatsapp 
+mas_install 1147396723
 
-# Unsplash Wallpapers
-mas_install 1284863847
+# Slack
+# mas_install 803453959
